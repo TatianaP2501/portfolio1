@@ -1,6 +1,6 @@
 # О себе
 
-![Мое фото](https://postimg.cc/4Yw38gJR)
+[![ava-mine.png](https://i.postimg.cc/d0cTVsp3/ava-mine.png)](https://postimg.cc/4Yw38gJR)
 
 ## Привет! Меня зовут Татьяна Покровская
 
